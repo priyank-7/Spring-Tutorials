@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\Priyank Patel\Documents\MyCode\JAVA\Spring\spring_demo_one"/>
+			<item value="C:\Users\Priyank Patel\Documents\MyCode\JAVA\Spring\spring_demo_one\src\com\luv2code\springdemo\MyApp.java"/>
+			<item value="C:\Users\Priyank Patel\Documents\MyCode\JAVA\Spring\hb-05-many-to-many"/>
+			<item value="C:\Users\Priyank Patel\Documents\MyCode\JAVA\Spring\SampleMavenProject"/>
+			<item value="C:\Users\Priyank Patel\Documents\MyCode\JAVA\Spring\spring_mvc_demo"/>
+			<item value="C:\Users\Priyank Patel\Documents\MyCode\JAVA\Spring\hb-01-one-to-one-uni"/>
+			<item value="C:\Users\Priyank Patel\Documents\MyCode\JAVA\Spring\spring_mvc_demo\src\main\java\com\luv2code\springdemo\mvc\Customer.java"/>
+			<item value="C:\Users\Priyank Patel\Documents\MyCode\JAVA\Spring"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.spring.jdbc.SpringJDBC"/>
+			<item value="com.retail.Online_Retail_Web_app"/>
+			<item value="com.operation.productcrudapp"/>
+			<item value="com.spring.mvc.demo.spring_mvc_demo"/>
+			<item value="com.spring.mvc"/>
+			<item value="com."/>
+			<item value="com.tracker.helloloo"/>
+			<item value="com.tracker.web_customer_tracker"/>
+			<item value="com.smp.SampleMavenProject"/>
+			<item value="com.web_customer_tracker.wbtc"/>
+			<item value="com.web_customer_tracker"/>
+			<item value="com.web_customer_tracker.web_customer_tracker"/>
+			<item value="com.hibernet.hibernet_tutorial"/>
+			<item value="com.springmvc.dbms.DBMSProj"/>
+			<item value="com.springmvc.spring_mvc_demo"/>
+		</list>
+		<list key="groupId">
+			<item value="com.spring.jdbc"/>
+			<item value="com.retail"/>
+			<item value="com.operation"/>
+			<item value="com.spring.mvc.demo"/>
+			<item value="com.spring.mvc"/>
+			<item value="com."/>
+			<item value="com.tracker"/>
+			<item value="com.smp"/>
+			<item value="com.web_customer_tracker"/>
+			<item value="com.hibernet"/>
+			<item value="com.springmvc.dbms"/>
+			<item value="com.springmvc"/>
+			<item value="com.springannotation"/>
+			<item value="com.springcore"/>
+		</list>
+		<list key="artifactId">
+			<item value="SpringJDBC"/>
+			<item value="Online-Retail-Web-app"/>
+			<item value="productcrudapp"/>
+			<item value="spring-mvc-demo"/>
+			<item value="springmvc"/>
+			<item value="helloloo"/>
+			<item value="web-customer-tracker"/>
+			<item value="SampleMavenProject"/>
+			<item value="wbtc"/>
+			<item value="hibernet_tutorial"/>
+			<item value="DBMSProj"/>
+			<item value="spring_mvc_demo"/>
+			<item value="spring_annotation_demo"/>
+			<item value="SpringCore"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\Priyank Patel\Documents\MyCode\JAVA\Spring\SpringBootProject\SpringBootProject"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>

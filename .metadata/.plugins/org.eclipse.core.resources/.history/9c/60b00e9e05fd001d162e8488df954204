@@ -1,0 +1,5 @@
+package com.web.thymeleaf.controller;
+
+public class mainController {
+
+}

@@ -1,0 +1,8 @@
+127.0.0.1 - - [07/Apr/2023:10:49:21 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:10:49:37 +0530] "GET /Online-Retail-Web-app/ HTTP/1.1" 200 10758
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:10:49:38 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:10:49:59 +0530] "GET /Online-Retail-Web-app/auth HTTP/1.1" 200 6529
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:10:50:25 +0530] "GET /Online-Retail-Web-app/auth HTTP/1.1" 200 6529
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:10:50:39 +0530] "GET /Online-Retail-Web-app/auth HTTP/1.1" 200 6529
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:10:50:43 +0530] "GET /Online-Retail-Web-app/auth HTTP/1.1" 200 6529
+0:0:0:0:0:0:0:1 - - [07/Apr/2023:10:50:53 +0530] "GET /Online-Retail-Web-app/auth HTTP/1.1" 200 4822

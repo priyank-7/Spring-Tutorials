@@ -1,0 +1,19 @@
+package com.spring.core;
+
+public class TrackCoach implements Coach {
+
+	private FortuneService fortuneService;
+	
+	
+	public TrackCoach(FortuneService fortuneService) {
+		this.fortuneService = fortuneService;
+	}
+
+	public String getDailyWorkout() {
+		return "This is track coatch";
+	}
+
+	public String getDailyFortune() {
+		return null;
+	}
+}

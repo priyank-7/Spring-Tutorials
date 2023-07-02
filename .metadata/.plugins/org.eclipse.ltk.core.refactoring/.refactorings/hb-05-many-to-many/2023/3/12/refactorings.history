@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;lib&apos;&#x0D;&#x0A;- Original project: &apos;hb-05-many-to-many&apos;&#x0D;&#x0A;- Destination element: &apos;lib&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     ojdbc6.jar&#x0D;&#x0A;     mysql-connector-java-8.0.11.jar&#x0D;&#x0A;     ojdbc8.jar&#x0D;&#x0A;     jaxb-api-2.3.0.jar&#x0D;&#x0A;     jaxb-core-2.3.0.jar" description="Copy files" element1="lib/ojdbc6.jar" element2="lib/mysql-connector-java-8.0.11.jar" element3="lib/ojdbc8.jar" element4="lib/jaxb-api-2.3.0.jar" element5="lib/jaxb-core-2.3.0.jar" files="5" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1679561368881" target="/spring-mvc-demo/lib" units="0" version="1.0"/>
+</session>
